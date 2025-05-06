@@ -4,38 +4,60 @@
 
 ---
 
-I'm a recent graduate from Seneca Polytechnic (April 2025), holding an **Advanced Diploma in Computer Programming and Analysis**. My education gave me broad exposure to programming, web development, databases, and system administration — with hands-on experience in building practical and efficient applications.
-
-## 💼 About Me
-
-- 🌱 Currently learning **System Administration**, **C#**, and **React Native**
-- 🧠 Interested in both **front-end and back-end development**, and how systems work behind the scenes
-- 📫 Reach me at: [vanshikasharma37@gmail.com](mailto:vanshikasharma37303@gmail.com)
-- 🌐 Portfolio: [My Portfolio Site](https://sites.google.com/view/vanshikaportfolio/home)
-- ⚡ Fun fact: I love debugging and simplifying complex problems into clean code
+I'm a recent graduate from **Seneca Polytechnic (April 2025)**, holding an **Advanced Diploma in Computer Programming and Analysis**. My education provided me with strong hands-on experience in building practical and efficient applications in web development, databases, and system administration.
 
 ---
 
-## 🧰 Languages and Tools
+## 🧠 About Me
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
+- 🚀 Currently learning **System Administration**, **C#**, and **React Native**
+- 🧠 Passionate about both **front-end and back-end development** — I enjoy understanding how systems work behind the scenes
+- ✉️ Reach me at: [vanshikasharma37@gmail.com](mailto:vanshikasharma37303@gmail.com)
+- 🌐 Portfolio: [My Portfolio Site](https://sites.google.com/view/vanshikasharma-portfolio)
+- ⚡ Fun fact: I love debugging and turning complex problems into clean, readable code
+- 🧩 Looking for opportunities in **software development**, **mobile apps**, or **system support** to continue learning and growing
+
+---
+
+## 🚀 Projects I’m Proud Of
+
+### 📱 Newsletter Subscription App
+- Built an Android app using **Kotlin** and **XML**, following **MVVM architecture**
+- Features **fragment communication**, **navigation**, and **form validation**
+- 📂 [View Project Repository](#)
+
+### 🛒 Online Store Manager
+- Android CRUD app for managing products using **Room Database**, **RecyclerView**, and **implicit intents** for camera access
+- Implemented **data persistence**, **input validation**, and a clean UI
+- 📂 [View Project Repository](#)
+
+### 🌐 Student Portal Web App
+- Created a responsive portal using **HTML**, **CSS**, **JavaScript**, and **Node.js**
+- Includes user login, announcements, and an internal dashboard
+- 📂 [View Project Repository](#)
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikasharma37&layout=compact&theme=radical)
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikasharma37&show_icons=true&theme=radical)
 
 ---
 
+Thank you for visiting my GitHub! 😊 Feel free to explore my repositories or reach out for collaboration.
