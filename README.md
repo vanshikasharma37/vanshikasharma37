@@ -35,8 +35,6 @@ I'm a recent graduate from Seneca Polytechnic (April 2025), holding an **Advance
 
 ## 📊 GitHub Stats
 
-![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikasharma37&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikasharma37&layout=compact&theme=radical)
 
 ---
