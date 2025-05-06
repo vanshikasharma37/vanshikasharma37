@@ -10,7 +10,7 @@ I'm a recent graduate from Seneca Polytechnic (April 2025), holding an **Advance
 
 - 🌱 Currently learning **System Administration**, **C#**, and **React Native**
 - 🧠 Interested in both **front-end and back-end development**, and how systems work behind the scenes
-- 📫 Reach me at: [vanshikasharma37@gmail.com](mailto:vanshikasharma37@gmail.com)
+- 📫 Reach me at: [vanshikasharma37@gmail.com](mailto:vanshikasharma37303@gmail.com)
 - 🌐 Portfolio: [My Portfolio Site](https://sites.google.com/view/vanshikaportfolio/home)
 - ⚡ Fun fact: I love debugging and simplifying complex problems into clean code
 
