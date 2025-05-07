@@ -22,19 +22,24 @@ I'm a recent graduate from **Seneca Polytechnic (April 2025)**, holding an **Adv
 ## 🚀 Projects I’m Proud Of
 
 ### 📱 Newsletter Subscription App
-- Built an Android app using **Kotlin** and **XML**, following **MVVM architecture**
-- Features **fragment communication**, **navigation**, and **form validation**
-- 📂 [View Project Repository](#)
+**Technologies:** Kotlin, Android Studio, XML, ConstraintLayout, Fragments, Intents  
+- Developed an Android app that enables users to subscribe to a newsletter via a form-based UI.
+- Implemented fragment-based navigation with seamless data transfer using Bundles.
+- Integrated smooth activity transitions using Intents for enhanced UX.
+- Built a clean and responsive layout using ConstraintLayout, adhering to Kotlin best practices.
 
-### 🛒 Online Store Manager
-- Android CRUD app for managing products using **Room Database**, **RecyclerView**, and **implicit intents** for camera access
-- Implemented **data persistence**, **input validation**, and a clean UI
-- 📂 [View Project Repository](#)
+### 🎭 Show Biz Management App
+**Technologies:** ASP.NET, C#, SQL Server, Microsoft Azure  
+- Designed and developed a web application to manage production teams, actors, and schedules.
+- Created dynamic views for interactive content management and efficient navigation.
+- Deployed the application on Microsoft Azure, ensuring secure, cloud-based access and performance optimization.
 
-### 🌐 Student Portal Web App
-- Created a responsive portal using **HTML**, **CSS**, **JavaScript**, and **Node.js**
-- Includes user login, announcements, and an internal dashboard
-- 📂 [View Project Repository](#)
+### 📚 DevFusion Learning Platform
+**Technologies:** Node.js, Express.js, MongoDB, EJS  
+- Built a full-stack educational platform with secure JWT-based user authentication.
+- Developed RESTful APIs to handle user registration and access to learning modules.
+- Designed the system to scale effectively in multi-user environments while maintaining usability and security.
+
 
 ---
 
